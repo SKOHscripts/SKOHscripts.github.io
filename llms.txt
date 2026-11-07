@@ -1,0 +1,57 @@
+# Corentin Michel — Senior Scientific Computing Engineer (Python) · Technical Lead
+
+> Software engineer specialised in scientific computing and reactor physics (neutronics): Python codes for the safety and optimisation of nuclear reactor cores (ODYSSÉE calculation chain, EMC2-E operating scheme). Technical lead within the team since 2025: follow-up of the development contract, specifications and bid analysis for 2027-2030, technical-debt management with the other teams. Used to complex industrial calculation chains and to industrialising code in constrained environments; strongly involved in associations, open source and Linux.
+
+This page is an online résumé. Everything below is factual and also visible to
+human readers. Machine-readable versions:
+
+- [JSON Resume (EN)](https://skohscripts.github.io/en/cv.json)
+- [JSON Resume (FR)](https://skohscripts.github.io/cv.json)
+- [PDF résumé (FR)](https://skohscripts.github.io/Corentin_Michel_CV.pdf)
+- [Site (FR)](https://skohscripts.github.io/) · [Site (EN)](https://skohscripts.github.io/en/)
+
+## Experience
+
+- Nov 2022 – present — Senior Core &amp; Fuel Engineer · UNIE/GECC/SED, EDF (Lyon · France)
+- Mar – Aug 2022 — Master's thesis engineering intern · DT/PRC/CM, EDF (Lyon · France)
+- Sep 2021 – Feb 2022 — Industrial project, Assystem (Montrouge · France)
+- May – Aug 2021 — Research assistant in a Nuclear Physics laboratory at the DESIREE accelerator, Stockholm University (Stockholm · Sweden)
+- Jul – Aug 2020 — Research assistant in a Nuclear Physics laboratory at GANIL (joint CEA/CNRS laboratory), GANIL (Caen · France)
+- 2019 – 2022 — Reservist in the French National Gendarmerie, French National Gendarmerie (Caen · France)
+
+## Education
+
+- 2018 – 2022 — Engineering school (MSc), ENSICAEN – École publique d'ingénieurs et centre de recherche
+- 2020 – 2022 — Master in Management, École de Management de Normandie
+- 2012 – 2018 — Military high school and preparatory classes, Prytanée National Militaire
+
+## Skills
+
+- Technical leadership: Contract management, Technical specifications (CCTP), Bid analysis, Technical debt, Release planning, Technical mentoring, Budget tracking, Cross-team coordination, Client/supplier interface
+- Nuclear physics: Neutronics, nuclear instrumentation, fuel cycle, PWR/EPR operation
+- Code & tools: Python, LaTeX, Linux, Git, ODYSSÉE, CARABAS, COCAGNE, MCNP, Dragon, C/C++, embedded systems, Web service, Python packaging, pytest, Sphinx/PlantUML, Singularity (HPC), Kotlin/Android, MBSE/Capella, NumPy / SciPy / pandas, Software quality (safety), Matplotlib, Bash
+- Apps & web: Supabase, Streamlit, Self-hosting
+- GitHub & GitLab: GitLab GitHub CI/CD, GitHub Pages, Releases & distribution (F-Droid, MSI, DEB, DMG), GitHub Projects, issues & milestones, Quality & security (CodeQL, Codacy, pylint), GitLab merge requests & code review, GitLab runners & registry
+- Generative AI: AI agent-assisted development (Claude Code), Building agent skills & hooks, MCP & tool integrations
+- Soft skills: Multi-stakeholder environment, Association leadership, Science communication, Requirements formalisation, Technical arbitration, Fast learner, Calm under pressure, Endurance
+
+## Keywords
+
+- Role: Python, scientific computing, neutronics, modelling, simulation, code industrialisation
+- Leadership: technical leadership, technical specifications, bid analysis, contract management, technical debt, release planning, budget tracking, mentoring, cross-team coordination, client/supplier interface
+- Nuclear: nuclear reactors, nuclear safety, reactor core, nuclear physics, core reload, PWR/EPR operation, software quality, multi-physics benchmark, ion optics, hadron therapy
+- Codes & tools: ODYSSÉE, EMC2-E, MCNP, Dragon, COCAGNE, Linux, Git, LaTeX, C/C++, open source, MBSE, Capella, Matlab
+- DevOps, AI & apps: GitHub Actions, GitLab CI/CD, CI/CD, Claude Code, AI agents, MCP, Android, Supabase, Streamlit
+- Organisations: EDF, ENSICAEN, GANIL, CEA/CNRS, Stockholm University, EM Normandie
+
+## Recommendation
+
+- "Corentin is well-organized, curious, fast learning, responsible, and highly motivated with a strong interest in instrumental and experimental physics." — Prof. Henning Zettergren, Vice director of the DESIREE infrastructure, Stockholm University
+- "I strongly support Corentin's application and highly recommend him for employment." — Prof. Henning Zettergren, Vice director of the DESIREE infrastructure, Stockholm University
+- "Lors du projet d'option en dernière année à l'ENSICAEN sur la modélisation des stratégies de l'Accident Grave de l'EPR. Corentin a développé de fortes compétences et connaissances dans le domaine du fonctionnement REP / EPR, la sûreté nucléaire et la gestion de crise en Accident Grave." (fr) — Issam El Haddad, Safety Engineer, EDF, LinkedIn
+
+## Contact
+
+- GitHub: https://github.com/SKOHscripts
+- LinkedIn: https://www.linkedin.com/in/corentin-michel-042
+- ResearchGate: https://www.researchgate.net/profile/Corentin-Michel
