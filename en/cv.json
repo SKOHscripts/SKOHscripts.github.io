@@ -1,0 +1,408 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Corentin Michel",
+    "label": "Technical Lead · Senior Scientific Computing Engineer (Python)",
+    "summary": "Since 2025 I have been the technical lead within my team: follow-up of the development contract, specifications and bid analysis for 2027-2030, coordination with the other teams, technical debt. I rely on hands-on development: I write and industrialise Python neutronics code that secures and optimises nuclear reactor core reloads (ODYSSÉE calculation chain, EMC2-E operating scheme). I automate tasks at work with generative AI; on my open-source projects, I develop with coding agents whose output I review and test. Involved in associations, open source and Linux.",
+    "url": "https://skohscripts.github.io/",
+    "image": "https://skohscripts.github.io/assets/img/photo.webp",
+    "location": {
+      "city": "Lyon",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "SKOHscripts",
+        "url": "https://github.com/SKOHscripts"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/corentin-michel-042"
+      },
+      {
+        "network": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Corentin-Michel"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "EDF",
+      "position": "Senior Core & Fuel Engineer · UNIE/GECC/SED",
+      "location": "Lyon",
+      "startDate": "2022-11",
+      "summary": "Development and industrialisation of the EMC2-E operating scheme (ODYSSÉE calculation chain), a Python neutronics code that secures and optimises the reloading of nuclear reactor cores. Technical lead since 2025: wrote the specifications and analysed the bids for the 2027-2030 development contract, contract follow-up, interfaces with partner teams, technical-debt management (104 h/year recovered)."
+    },
+    {
+      "name": "EDF",
+      "position": "Master's thesis engineering intern · DT/PRC/CM",
+      "location": "Lyon",
+      "startDate": "2022-03",
+      "endDate": "2022-08",
+      "summary": "Modelling of an international multi-physics benchmark with the ODYSSÉE chain, creation of neutron cross-section libraries for the benchmark's cycles, calculation of the cycles of a US reactor and comparison with plant data."
+    },
+    {
+      "name": "Assystem",
+      "position": "Industrial project",
+      "location": "Montrouge",
+      "startDate": "2021-09",
+      "endDate": "2022-02",
+      "summary": "Application of the MBSE methodology to define concrete strategies in case of a Severe Accident on the EPR. Hands-on use of the CAPELLA systems engineering software."
+    },
+    {
+      "name": "Stockholm University",
+      "position": "Research assistant in a Nuclear Physics laboratory at the DESIREE accelerator",
+      "location": "Stockholm",
+      "startDate": "2021-05",
+      "endDate": "2021-08",
+      "summary": "\"Cooling dynamics of carbonaceous molecules in DESIREE\" Analysis of experiments on C2- ions from DESIREE. Modelling of Morse potentials and spontaneous decay to explain the competition between fragmentation and electron emission."
+    },
+    {
+      "name": "GANIL",
+      "position": "Research assistant in a Nuclear Physics laboratory at GANIL (joint CEA/CNRS laboratory)",
+      "location": "Caen",
+      "startDate": "2020-07",
+      "endDate": "2020-08",
+      "summary": "Python modelling of ion-beam emittance through ion-optical elements and optimisation for hadron therapy."
+    },
+    {
+      "name": "French National Gendarmerie",
+      "position": "Reservist in the French National Gendarmerie",
+      "location": "Caen",
+      "startDate": "2019-07",
+      "endDate": "2022-03",
+      "summary": "General patrol of the Caen la Mer urban area, assistance to the public and teamwork in sensitive situations."
+    }
+  ],
+  "education": [
+    {
+      "institution": "ENSICAEN – École publique d'ingénieurs et centre de recherche",
+      "area": "Engineering school (MSc)",
+      "startDate": "2018",
+      "endDate": "2022",
+      "studyType": "Electronics, Applied Physics and Programming track, major in Nuclear and Energy Engineering."
+    },
+    {
+      "institution": "École de Management de Normandie",
+      "area": "Master in Management",
+      "startDate": "2020",
+      "endDate": "2022",
+      "studyType": "\"Grande École\" Master's degree from EM Normandie. Management, finance, sales, strategy, entrepreneurship and international skills."
+    },
+    {
+      "institution": "Prytanée National Militaire",
+      "area": "Military high school and preparatory classes",
+      "startDate": "2012",
+      "endDate": "2018",
+      "studyType": "Science track (Physics/Chemistry)"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical leadership",
+      "keywords": [
+        "Contract management",
+        "Technical specifications (CCTP)",
+        "Bid analysis",
+        "Cross-team coordination",
+        "Technical debt",
+        "Release planning",
+        "Technical mentoring",
+        "Budget tracking",
+        "Client/supplier interface"
+      ]
+    },
+    {
+      "name": "Nuclear physics",
+      "keywords": [
+        "Neutronics",
+        "core reload",
+        "nuclear safety",
+        "fuel cycle",
+        "nuclear instrumentation",
+        "PWR/EPR operation"
+      ]
+    },
+    {
+      "name": "Code & tools",
+      "keywords": [
+        "Python",
+        "HPC (Singularity)",
+        "ODYSSÉE",
+        "COCAGNE",
+        "Python packaging",
+        "pytest",
+        "GitLab GitHub CI/CD",
+        "Sphinx/PlantUML",
+        "Software quality (safety)",
+        "NumPy / SciPy / pandas",
+        "Web service",
+        "Git",
+        "Linux",
+        "Kotlin/Android",
+        "MBSE/Capella",
+        "MCNP",
+        "Dragon",
+        "C/C++",
+        "LaTeX",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Apps & web",
+      "keywords": [
+        "Supabase",
+        "Streamlit",
+        "Self-hosting"
+      ]
+    },
+    {
+      "name": "GitHub & GitLab",
+      "keywords": [
+        "Releases & distribution (F-Droid, MSI, DEB, DMG)",
+        "GitHub Projects, issues & milestones",
+        "Quality & security (CodeQL, Codacy, pylint)",
+        "GitLab merge requests & code review",
+        "GitLab runners & registry"
+      ]
+    },
+    {
+      "name": "Generative AI",
+      "keywords": [
+        "Automation of recurring tasks",
+        "AI agent-assisted development (Claude Code)",
+        "Framing, review and testing of generated code",
+        "Building agent skills & hooks",
+        "MCP & tool integrations"
+      ]
+    },
+    {
+      "name": "Soft skills",
+      "keywords": [
+        "Multi-stakeholder environment",
+        "Association leadership",
+        "Science communication",
+        "Requirements formalisation",
+        "Technical arbitration",
+        "Fast learner",
+        "Calm under pressure",
+        "Endurance"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English B2",
+      "fluency": "“English speaking contest EMN - 2019”"
+    },
+    {
+      "language": "German B1",
+      "fluency": "CEFR B1 certificate."
+    },
+    {
+      "language": "Italian A1",
+      "fluency": "Self-taught"
+    }
+  ],
+  "publications": [
+    {
+      "name": "OECD/NEA TVA Watts Bar Unit 1 Benchmark: Overview of R&D and Industrial French Solutions",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1080/00295639.2026.2624993"
+    },
+    {
+      "name": "DESIREE: Studies of the cooling dynamics of carbonaceous molecules",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.6084/m9.figshare.15276429"
+    },
+    {
+      "name": "Emittance: transformation of an emittance through different ion-optical systems",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.6084/m9.figshare.14754027"
+    },
+    {
+      "name": "TIPE: Sacrificial anodes on submarines, a corrosion study.",
+      "releaseDate": "2018",
+      "url": "https://doi.org/10.6084/m9.figshare.14909847.v1"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Floor warden (EDF)",
+      "date": "Since Sept. 2026"
+    },
+    {
+      "name": "EDF internal training: agile development and machine learning",
+      "date": "April 2026"
+    },
+    {
+      "name": "MBTI training (psychological types), Nicolas Angermuller",
+      "date": "Feb–Mar 2026"
+    },
+    {
+      "name": "MathWorks course completion certificate (Matlab)",
+      "date": "April 2020"
+    },
+    {
+      "name": "PSC1 first-aid certificate (French Ministry of the Interior)",
+      "date": "July 2019"
+    },
+    {
+      "name": "Gendarmerie military preparation certificate",
+      "date": "July 2019"
+    },
+    {
+      "name": "TOEIC 895/990",
+      "date": "June 2019"
+    },
+    {
+      "name": "First-level voluntary blood donor diploma",
+      "date": "April 2017"
+    },
+    {
+      "name": "Second military discovery programme as head of a section of 48 new cadets.",
+      "date": "August 2016"
+    },
+    {
+      "name": "Military discovery programme",
+      "date": "August 2015"
+    },
+    {
+      "name": "Aeronautics initiation certificate (honours), glider pilot training",
+      "date": "2012–2013"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Ultra-trail",
+      "keywords": [
+        "Focus on long-distance races"
+      ]
+    },
+    {
+      "name": "Cycling",
+      "keywords": [
+        "Bikepacking and ultra-distance"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Scuba diving (level 1), self-supported hikes of ~200 km"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Member of the Prytanée National Militaire wind band"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Europe · North America · South America · Australia · Nordic countries · Africa"
+      ]
+    },
+    {
+      "name": "Associations",
+      "keywords": [
+        "Volunteer, printer manager and finance team at the community café <a href=\"https://cafe-levillage.org/\">“Le Village”</a>, Lyon 8.",
+        "President of Caenlypso, ENSICAEN's offshore sailing association.",
+        "Head of a campaign list for ENSICAEN's sports office.",
+        "President of ENSICAEN's swimming club.",
+        "Treasurer of the Prytanée Militaire student office."
+      ]
+    },
+    {
+      "name": "Misc.",
+      "keywords": [
+        "Open source · Raspberry Pi"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. Henning Zettergren",
+      "reference": "Corentin is well-organized, curious, fast learning, responsible, and highly motivated with a strong interest in instrumental and experimental physics."
+    },
+    {
+      "name": "Prof. Henning Zettergren",
+      "reference": "I strongly support Corentin's application and highly recommend him for employment."
+    },
+    {
+      "name": "Issam El Haddad",
+      "reference": "Lors du projet d'option en dernière année à l'ENSICAEN sur la modélisation des stratégies de l'Accident Grave de l'EPR. Corentin a développé de fortes compétences et connaissances dans le domaine du fonctionnement REP / EPR, la sûreté nucléaire et la gestion de crise en Accident Grave."
+    }
+  ],
+  "meta": {
+    "keywords": [
+      "Python",
+      "scientific computing",
+      "neutronics",
+      "reactor physics",
+      "modelling",
+      "simulation",
+      "high-performance computing (HPC)",
+      "code industrialisation",
+      "technical leadership",
+      "project management",
+      "call for tenders",
+      "technical specifications",
+      "bid analysis",
+      "contract management",
+      "technical debt",
+      "release planning",
+      "budget tracking",
+      "mentoring",
+      "cross-team coordination",
+      "client/supplier interface",
+      "stakeholder management",
+      "technical writing",
+      "continuous learning",
+      "nuclear reactors",
+      "nuclear safety",
+      "reactor core",
+      "nuclear physics",
+      "core reload",
+      "PWR/EPR operation",
+      "software quality",
+      "multi-physics benchmark",
+      "OECD/NEA",
+      "ODYSSÉE",
+      "EMC2-E",
+      "MCNP",
+      "Dragon",
+      "COCAGNE",
+      "Linux",
+      "Git",
+      "LaTeX",
+      "C/C++",
+      "open source",
+      "MBSE",
+      "Capella",
+      "GitHub Actions",
+      "GitLab CI/CD",
+      "CI/CD",
+      "Claude Code",
+      "generative AI",
+      "AI agents",
+      "code review",
+      "automation",
+      "MCP",
+      "Android",
+      "Supabase",
+      "Streamlit",
+      "EDF",
+      "ENSICAEN",
+      "GANIL",
+      "CEA/CNRS",
+      "Stockholm University",
+      "EM Normandie"
+    ]
+  }
+}
